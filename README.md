@@ -1,4 +1,4 @@
-# Portfolio_summary
+# Portfolio Summary
 
 ###  ML Modelling (Applied Research at Flexiti Financial)
 Currently working on developing Application-Level Fraud Models using Random Forests and Adaptive Gradient Boosting. 
